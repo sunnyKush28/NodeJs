@@ -27,6 +27,7 @@ const getUserHandler = (req, res) => {
 
 const getUserByIdHandler = () => {
 
+
 }
 
 const server = createServer((req, res) => {

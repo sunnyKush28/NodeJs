@@ -22,6 +22,7 @@ console.log(__dirname, __filename);
 
 const filePath2 = path.join(__dirname, 'dir1', 'dir2', 'text.text')
 
+
 console.log(filePath2);
 
 const filePath3 = path.resolve(__dirname, 'dir1', 'dir2', 'text.text')

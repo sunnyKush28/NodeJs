@@ -34,6 +34,7 @@ const appendFile = async () => {
         console.log('file appended to...');
 
     } catch (error) {
+
         console.log(error);
 
     }
